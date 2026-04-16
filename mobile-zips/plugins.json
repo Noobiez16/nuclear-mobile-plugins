@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": [
     {
-      "name": "nuclear-plugin-lastfm-mobile-ready",
+      "name": "Last.fm",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-lastfm-mobile-ready.zip",
       "id": "nuclear-plugin-lastfm",
@@ -13,7 +13,7 @@
       "category": "scrobbling"
     },
     {
-      "name": "nuclear-plugin-youtube-playlists-mobile-ready",
+      "name": "YouTube Playlists",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-youtube-playlists-mobile-ready.zip",
       "id": "nuclear-plugin-youtube-playlists",
@@ -24,7 +24,7 @@
       "category": "streaming"
     },
     {
-      "name": "nuclear-plugin-youtube-mobile-ready",
+      "name": "YouTube",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-youtube-mobile-ready.zip",
       "id": "nuclear-plugin-youtube",
@@ -35,7 +35,7 @@
       "category": "streaming"
     },
     {
-      "name": "nuclear-plugin-soundcloud-mobile-ready",
+      "name": "SoundCloud",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-soundcloud-mobile-ready.zip",
       "id": "nuclear-plugin-soundcloud",
@@ -46,7 +46,7 @@
       "category": "streaming"
     },
     {
-      "name": "nuclear-plugin-listenbrainz-dashboard-mobile-ready",
+      "name": "ListenBrainz Dashboard",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-listenbrainz-dashboard-mobile-ready.zip",
       "id": "nuclear-plugin-listenbrainz-dashboard",
@@ -57,7 +57,7 @@
       "category": "dashboard"
     },
     {
-      "name": "nuclear-plugin-discogs-mobile-ready",
+      "name": "Discogs",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-discogs-mobile-ready.zip",
       "id": "nuclear-plugin-discogs",
@@ -68,7 +68,7 @@
       "category": "metadata"
     },
     {
-      "name": "nuclear-plugin-deezer-dashboard-mobile-ready",
+      "name": "Deezer Dashboard",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-deezer-dashboard-mobile-ready.zip",
       "id": "nuclear-plugin-deezer-dashboard",
@@ -79,7 +79,7 @@
       "category": "dashboard"
     },
     {
-      "name": "nuclear-plugin-bandcamp-mobile-ready",
+      "name": "Bandcamp",
       "version": "0.2.0",
       "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-bandcamp-mobile-ready.zip",
       "id": "nuclear-plugin-bandcamp",
