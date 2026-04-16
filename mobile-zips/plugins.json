@@ -8,8 +8,8 @@
       "id": "nuclear-plugin-lastfm",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "scrobbling"
     },
     {
@@ -19,8 +19,8 @@
       "id": "nuclear-plugin-youtube-playlists",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "streaming"
     },
     {
@@ -30,8 +30,8 @@
       "id": "nuclear-plugin-youtube",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "streaming"
     },
     {
@@ -41,8 +41,8 @@
       "id": "nuclear-plugin-soundcloud",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "streaming"
     },
     {
@@ -52,8 +52,8 @@
       "id": "nuclear-plugin-listenbrainz-dashboard",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "dashboard"
     },
     {
@@ -63,8 +63,8 @@
       "id": "nuclear-plugin-discogs",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "metadata"
     },
     {
@@ -74,8 +74,8 @@
       "id": "nuclear-plugin-deezer-dashboard",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "dashboard"
     },
     {
@@ -85,8 +85,8 @@
       "id": "nuclear-plugin-bandcamp",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
-      "repo": "https://github.com/Noobiez16/nuclear-mobile-plugins",
-      "addedAt": "2026-04-15",
+      "repo": "Noobiez16/nuclear-mobile-plugins",
+      "addedAt": "2026-04-15T20:00:00Z",
       "category": "streaming"
     }
   ]
