@@ -1,0 +1,42 @@
+[
+  {
+    "name": "nuclear-plugin-lastfm-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-lastfm-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-youtube-playlists-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-youtube-playlists-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-youtube-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-youtube-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-soundcloud-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-soundcloud-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-listenbrainz-dashboard-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-listenbrainz-dashboard-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-discogs-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-discogs-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-deezer-dashboard-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-deezer-dashboard-mobile-ready.zip"
+  },
+  {
+    "name": "nuclear-plugin-bandcamp-mobile-ready",
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/nuclear-plugin-bandcamp-mobile-ready.zip"
+  }
+]
