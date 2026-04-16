@@ -1,42 +1,42 @@
-[
-  {
+{
+  "nuclear-plugin-lastfm": {
     "name": "nuclear-plugin-lastfm-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-lastfm-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-youtube-playlists": {
     "name": "nuclear-plugin-youtube-playlists-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-youtube-playlists-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-youtube": {
     "name": "nuclear-plugin-youtube-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-youtube-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-soundcloud": {
     "name": "nuclear-plugin-soundcloud-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-soundcloud-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-listenbrainz-dashboard": {
     "name": "nuclear-plugin-listenbrainz-dashboard-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-listenbrainz-dashboard-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-discogs": {
     "name": "nuclear-plugin-discogs-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-discogs-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-deezer-dashboard": {
     "name": "nuclear-plugin-deezer-dashboard-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-deezer-dashboard-mobile-ready.zip"
   },
-  {
+  "nuclear-plugin-bandcamp": {
     "name": "nuclear-plugin-bandcamp-mobile-ready",
     "version": "0.2.0",
     "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-bandcamp-mobile-ready.zip"
   }
-]
+}
