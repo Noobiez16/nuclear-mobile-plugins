@@ -4,7 +4,7 @@
     {
       "name": "Last.fm",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-lastfm-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-lastfm-mobile-ready.zip",
       "id": "nuclear-plugin-lastfm",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -15,7 +15,7 @@
     {
       "name": "YouTube Playlists",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-youtube-playlists-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-youtube-playlists-mobile-ready.zip",
       "id": "nuclear-plugin-youtube-playlists",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -26,7 +26,7 @@
     {
       "name": "YouTube",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-youtube-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-youtube-mobile-ready.zip",
       "id": "nuclear-plugin-youtube",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -37,7 +37,7 @@
     {
       "name": "SoundCloud",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-soundcloud-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-soundcloud-mobile-ready.zip",
       "id": "nuclear-plugin-soundcloud",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -48,7 +48,7 @@
     {
       "name": "ListenBrainz Dashboard",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-listenbrainz-dashboard-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-listenbrainz-dashboard-mobile-ready.zip",
       "id": "nuclear-plugin-listenbrainz-dashboard",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -59,7 +59,7 @@
     {
       "name": "Discogs",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-discogs-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-discogs-mobile-ready.zip",
       "id": "nuclear-plugin-discogs",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -70,7 +70,7 @@
     {
       "name": "Deezer Dashboard",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-deezer-dashboard-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-deezer-dashboard-mobile-ready.zip",
       "id": "nuclear-plugin-deezer-dashboard",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
@@ -81,7 +81,7 @@
     {
       "name": "Bandcamp",
       "version": "0.2.0",
-      "url": "https://raw.githubusercontent.com/Noobiez16/nuclear-mobile-plugins/main/mobile-zips/nuclear-plugin-bandcamp-mobile-ready.zip",
+      "url": "https://cdn.jsdelivr.net/gh/Noobiez16/nuclear-mobile-plugins@main/mobile-zips/nuclear-plugin-bandcamp-mobile-ready.zip",
       "id": "nuclear-plugin-bandcamp",
       "description": "Mobile optimized AOT build",
       "author": "Nuclear Community",
